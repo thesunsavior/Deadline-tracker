@@ -5,3 +5,5 @@ Functional Specification.
 + Weekview and Month view calendar to help keep track of upcoming events and deadlines
 + Easy to use UI/UX, customized for easy course set-up 
 + Study plan countdown helps you keep track of all deadlines, exams and let you make a study plan
+
+Deadline-tracker was built with flutter and Firebase
