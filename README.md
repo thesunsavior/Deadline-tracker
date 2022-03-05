@@ -7,4 +7,4 @@ Functional Specification.
 + Study plan countdown helps you keep track of all deadlines, exams and let you make a study plan
 
 Deadline-tracker was built with flutter and Firebase
-![Picture 1](Asset/DT_1.png)
+![Picture 1](Assest/DT_1.png)
